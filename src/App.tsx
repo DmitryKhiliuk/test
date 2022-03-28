@@ -5,12 +5,6 @@ function App() {
   return (
     <div className="App">
       hello!
-        1commit
-        2commit
-        3commit
-        4commit
-        5commit
-      branch1
     </div>
   );
 }
