@@ -12,6 +12,7 @@ function App() {
         5commit
       branch1
         else1
+      else2
     </div>
   );
 }
