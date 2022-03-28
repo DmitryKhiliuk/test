@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       hello!
         1
+        2
     </div>
   );
 }
