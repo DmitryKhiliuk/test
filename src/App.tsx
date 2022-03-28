@@ -11,8 +11,6 @@ function App() {
         4commit
         5commit
       branch1
-        again1
-      again2
     </div>
   );
 }
