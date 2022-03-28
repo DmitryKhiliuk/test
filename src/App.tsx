@@ -8,6 +8,7 @@ function App() {
         1
         2
         3
+      add function
     </div>
   );
 }
