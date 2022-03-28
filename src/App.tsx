@@ -10,7 +10,6 @@ function App() {
         3commit
         4commit
         5commit
-      main1
     </div>
   );
 }
